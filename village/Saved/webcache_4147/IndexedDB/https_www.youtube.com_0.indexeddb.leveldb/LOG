@@ -1,0 +1,5 @@
+2022/09/09-20:02:15.906 3c20 Reusing MANIFEST C:/Users/julia.sanches/Documents/Unreal Projects/SolarUE5-main/MyProject/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/09-20:06:46.561 1ea4 Level-0 table #5: started
+2022/09/09-20:06:46.570 1ea4 Level-0 table #5: 7350 bytes OK
+2022/09/09-20:06:46.574 1ea4 Delete type=0 #3
+2022/09/09-20:06:46.576 1ea4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
